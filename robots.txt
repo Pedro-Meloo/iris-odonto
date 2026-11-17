@@ -1,0 +1,3 @@
+# DEMONSTRAÇÃO: troque por "Allow: /" ao publicar o site real.
+User-agent: *
+Disallow: /
